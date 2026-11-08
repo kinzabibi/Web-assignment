@@ -7,10 +7,11 @@ A simple and responsive café website developed using **HTML, CSS, and JavaScrip
 - Home page with café introduction.
 - Specials section displaying coffee, cakes, and pastries.
 - About section with Read More functionality.
-- Menu with item prices and filtering options.
+- Menu with item prices, filtering options, and total calculation.
 - Order form with customer details.
 - Light/Dark mode toggle.
-- Interactive JavaScript features.
+- Age-based discount calculation (Student and Senior discounts).
+- Interactive forms with submission confirmation.
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +26,6 @@ The website includes images of coffee, cakes, pastries, and the café.
 ## 🚀 How to Run the Project
 
 You can view the live project directly here:
-
 **Live Demo:** https://kinzabibi.github.io/Web-assignment/
 
 Alternatively, to run it locally:
